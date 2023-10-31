@@ -1,0 +1,27 @@
+# Key-value pairs
+name: Jayvir Chhasatiya
+age: 20
+email: jayvir@gmail.com
+isStudent: true
+
+# Lists
+hobbies:
+  - Reading
+  - Hiking
+  - Cooking
+
+# Nested structures
+address:
+  street: 123 Khodiyar Matanu Faliyu
+  city: Vadod
+  postalCode: 388370
+  country: India
+
+# Multiline strings
+description: |
+  Jayvir is a software engineer
+  who enjoys exploring the outdoors
+  and experimenting with new recipes.
+
+# Null value
+website: null

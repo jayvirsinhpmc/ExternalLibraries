@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47368575-c1a0-4d65-b2de-a08c2e6f04a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GSONExample/JsonToObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GSONExample/ObjectToJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GSONExample/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXBExample/ObjectToXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXBExample/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAXBExample/XMLToObject.java" afterDir="false" />
+    <list default="true" id="47368575-c1a0-4d65-b2de-a08c2e6f04a3" name="Changes" comment="GSON example">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LombokExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LombokExample/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yamlExample.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAXBExample/XMLToObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAXBExample/XMLToObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/chhasatiyaj/Downloads/jaxb-ri-2.3.1/jaxb-ri/mod/javax.activation-api.jar",
+    "last_opened_file_path": "C:/Users/chhasatiyaj/Downloads/lombok (1).jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -64,10 +59,10 @@
       <recent name="JAXBExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XMLToObject">
+  <component name="RunManager" selected="Application.LombokExample.Main">
     <configuration name="JsonToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GSONExample.JsonToObject" />
-      <module name="Gson" />
+      <module name="XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="GSONExample.*" />
@@ -78,12 +73,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectToJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GSONExample.ObjectToJson" />
-      <module name="Gson" />
+    <configuration name="LombokExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LombokExample.Main" />
+      <module name="XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GSONExample.*" />
+          <option name="PATTERN" value="LombokExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LOMBOKExample.Main" />
+      <module name="XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LOMBOKExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,7 +101,7 @@
     </configuration>
     <configuration name="ObjectToXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JAXBExample.ObjectToXML" />
-      <module name="Gson" />
+      <module name="XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JAXBExample.*" />
@@ -106,7 +114,7 @@
     </configuration>
     <configuration name="XMLToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JAXBExample.XMLToObject" />
-      <module name="Gson" />
+      <module name="XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JAXBExample.*" />
@@ -117,12 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LombokExample.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.XMLToObject" />
         <item itemvalue="Application.ObjectToXML" />
         <item itemvalue="Application.JsonToObject" />
-        <item itemvalue="Application.ObjectToJson" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +157,28 @@
       <option name="presentableId" value="Default" />
       <updated>1696482018979</updated>
     </task>
+    <task id="LOCAL-00001" summary="GSON example">
+      <created>1696507666117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696507666117</updated>
+    </task>
+    <task id="LOCAL-00002" summary="GSON example">
+      <created>1696507768804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696507768804</updated>
+    </task>
+    <task id="LOCAL-00003" summary="GSON example">
+      <created>1696507803156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696507803156</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,5 +191,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GSON example" />
+    <option name="LAST_COMMIT_MESSAGE" value="GSON example" />
   </component>
 </project>

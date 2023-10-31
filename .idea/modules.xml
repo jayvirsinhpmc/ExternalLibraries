@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Gson.iml" filepath="$PROJECT_DIR$/Gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS.iml" filepath="$PROJECT_DIR$/XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS.iml" />
     </modules>
   </component>
 </project>
