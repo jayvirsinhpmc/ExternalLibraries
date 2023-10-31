@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47368575-c1a0-4d65-b2de-a08c2e6f04a3" name="Changes" comment="GSON example">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LombokExample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LombokExample/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yamlExample.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/XML_JSON_YML_GSON_LOMBOK_APACHE_COMMONS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAXBExample/XMLToObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAXBExample/XMLToObject.java" afterDir="false" />
-    </list>
+    <list default="true" id="47368575-c1a0-4d65-b2de-a08c2e6f04a3" name="Changes" comment="XML, JSON, YAML, GSON, LOMBOK, Apache Commons Program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696507803156</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="XML, JSON, YAML, GSON, LOMBOK, Apache Commons Program">
+      <created>1698753577423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698753577423</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +192,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GSON example" />
-    <option name="LAST_COMMIT_MESSAGE" value="GSON example" />
+    <MESSAGE value="XML, JSON, YAML, GSON, LOMBOK, Apache Commons Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="XML, JSON, YAML, GSON, LOMBOK, Apache Commons Program" />
   </component>
 </project>
